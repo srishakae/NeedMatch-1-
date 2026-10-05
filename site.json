@@ -1,0 +1,10 @@
+{
+  "description": "Connects users and providers in a reverse marketplace to post needs, submit offers, and negotiate with live compatibility scores and smart budget tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
